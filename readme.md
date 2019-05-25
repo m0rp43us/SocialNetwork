@@ -2,6 +2,10 @@
 
 Construction d'un site web en restant fidèle au modèle MVC
 
+## SocialNetwork
+
+A website similar to twitter where you could create a post or upvote ,comment and save posts .
+
 ## Modèle
 
 **Package Beans**
