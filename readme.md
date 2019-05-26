@@ -53,7 +53,7 @@ Pages jsp :
 - SettingsServlet       "     (settings.jsp)  
 
 
-## Base de donnée
+## Base de donnée (Oracle)
 
 
 ```
